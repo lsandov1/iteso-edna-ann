@@ -9,7 +9,7 @@ import numpy as np
 import time
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
-get_ipython().run_line_magic('matplotlib', 'inline')
+#get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 # # 1. Classiffying Dogs vs Cats datatset
